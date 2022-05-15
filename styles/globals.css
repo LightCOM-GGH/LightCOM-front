@@ -43,3 +43,12 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#card-container {
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
